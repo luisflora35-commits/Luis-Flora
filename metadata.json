@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of Pawfect Match - Pet Marketplace",
+  "description": "A premium pet adoption and selling platform connecting verified sellers with loving pet parents. Features include AI-assisted descriptions, secure checkout, and seller dashboards.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
